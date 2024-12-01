@@ -1,0 +1,1 @@
+export const toMillis = (sec: number): number => sec * 1000;
